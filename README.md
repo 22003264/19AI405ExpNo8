@@ -1,7 +1,8 @@
 # ExpNo 8 : Solve Cryptarithmetic Problem,a CSP (Constraint Satisfaction Problem) using Python
 Name:ONTEDDU SIRISHA
+
 Register Number:212222230103
-𝓝 𝐅 𝓢
+
 ## Aim:
 
 To solve Cryptarithmetic Problem,a CSP (Constraint Satisfaction Problem) using Python
